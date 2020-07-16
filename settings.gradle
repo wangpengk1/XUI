@@ -1,0 +1,1 @@
+include ':xui_lib', ':widget_compiler',':app'
